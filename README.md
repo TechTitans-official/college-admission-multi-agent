@@ -729,7 +729,7 @@ Recommended order:
 ```
 
 ---
-# 18. Future Production Integration
+# 17. Future Production Integration
 
 After the complete agent workflow is stable:
 
@@ -750,7 +750,7 @@ College Phone Number
 The initial development environment will use a local microphone/speaker. Real phone calling will be integrated only after the voice agent workflow is working correctly.
 
 
-# 20. Final System Vision
+# 18. Final System Vision
 
 ```text
                          COLLEGE ADMINISTRATION
